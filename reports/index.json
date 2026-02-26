@@ -1,5 +1,28 @@
 [
   {
+    "id": "20260225-233654-qwza",
+    "title": "Nico Da Illustrious",
+    "commanders": [
+      "Nico Da Illustrious"
+    ],
+    "dateStart": "2026-02-26T04:36:54.000Z",
+    "dateEnd": "2026-02-26T05:37:06.000Z",
+    "dateLabel": "2/25/2026, 11:36:54 PM - 2/26/2026, 12:37:06 AM",
+    "url": "https://JaharSWMG.github.io/JaharLogsWvW/?report=20260225-233654-qwza",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 8,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 51,
+      "avgEnemySize": 41
+    }
+  },
+  {
     "id": "20260225-223212-h54d",
     "title": "Nico Da Illustrious",
     "commanders": [
